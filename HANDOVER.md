@@ -24,7 +24,7 @@ WordPress site hosted on [Bluehost](https://www.bluehost.com).
 
 **Repository:** [https://github.com/Rise-admin1/StudentMobileRN](https://github.com/Rise-admin1/StudentMobileRN)
 
-Local setup and production release steps are in [INSTALLATION.md](./INSTALLATION.md).
+Local setup and production release steps are in [INSTALLATION.md](https://github.com/Rise-admin1/StudentMobileRN/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Local setup and production release steps are in [INSTALLATION.md](./INSTALLATION
 
 **Repository:** [https://github.com/Rise-admin1/React_Journal](https://github.com/Rise-admin1/React_Journal)
 
-Local setup is in [INSTALLATION.md](../RISE_Projects/React_Journal/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/React_Journal/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Local setup is in [INSTALLATION.md](../RISE_Projects/React_Journal/INSTALLATION.
 
 **Repository:** [https://github.com/Rise-admin1/AnalyticaForm](https://github.com/Rise-admin1/AnalyticaForm)
 
-Local setup is in [INSTALLATION.md](../RISE_Projects/AnalyticaForm/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/AnalyticaForm/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -59,19 +59,19 @@ Local setup is in [INSTALLATION.md](../RISE_Projects/AnalyticaForm/INSTALLATION.
 
 **Repository:** [https://github.com/Rise-admin1/safari-books](https://github.com/Rise-admin1/safari-books)
 
-Local setup and production release steps are in [INSTALLATION.md](../RISE_Projects/safari-books/INSTALLATION.md).
+Local setup and production release steps are in [INSTALLATION.md](https://github.com/Rise-admin1/safari-books/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
 | Client | `client/` | [Expo](https://expo.dev) |
 | Backend | API (`api/`) | [backend.safbooks.com](https://backend.safbooks.com) |
-| Landing page | Vite (`SB-landing_page/`) | — |
+| Landing page | Vite (`SB-landing_page/`) | [landing-page](https://safbooks.com) |
 
 ## 6. Velo
 
 **Repository:** [https://github.com/Rise-admin1/Velo](https://github.com/Rise-admin1/Velo)
 
-Local setup and production release steps are in [INSTALLATION.md](../RISE_Projects/Velo/INSTALLATION.md).
+Local setup and production release steps are in [INSTALLATION.md](https://github.com/Rise-admin1/Velo/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -83,31 +83,31 @@ Local setup and production release steps are in [INSTALLATION.md](../RISE_Projec
 
 **Repository:** [https://github.com/Rise-admin1/mch-mp](https://github.com/Rise-admin1/mch-mp)
 
-Local setup is in [INSTALLATION.md](../RISE_Projects/mch-mp/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/mch-mp/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
 | Client | Next.js (`client/`) | [funyula.com](https://www.funyula.com) |
-| Backend | API (`backend/`) | — |
+| Backend | API (`backend/`) | [backend on render](https://www.future.funyula.com) |
 | PHD Success scheduling | Vite (`phd-success-scheduling/`) | [scheduling.phdsuccess.ae](https://www.scheduling.phdsuccess.ae) |
-| Rise scheduling | Vite (`rise-scheduling/`) | — |
-| PDF React | Vite (`pdf-react/`) | — |
+| Rise scheduling | Vite (`rise-scheduling/`) | [on render](https://scheduler.phdsuccess.ae) |
+| PDF React | Vite (`pdf-react/`) | [pdf on render](https://fpfplatform.funyula.com) |
 
 ## 8. RISE Home
 
 **Repository:** [https://github.com/Rise-admin1/rise-home](https://github.com/Rise-admin1/rise-home)
 
-Local setup is in [INSTALLATION.md](../RISE_Projects/rise-home/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/rise-home/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
-| Client | Vite (`client/`) | — |
+| Client | Vite (`client/`) | [rightintellectual.com](https://rightintellectual.com/) ([Render](https://render.com)) |
 
 ## 9. Researchers Hub
 
 **Repository:** [https://github.com/Rise-admin1/researchershub](https://github.com/Rise-admin1/researchershub)
 
-Local setup is in [INSTALLATION.md](../migration/researchershub/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/researchershub/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -117,7 +117,7 @@ Local setup is in [INSTALLATION.md](../migration/researchershub/INSTALLATION.md)
 
 **Repository:** [https://github.com/Rise-admin1/samia-future](https://github.com/Rise-admin1/samia-future)
 
-Local setup is in [INSTALLATION.md](../migration/samia-future/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/samia-future/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -127,7 +127,7 @@ Local setup is in [INSTALLATION.md](../migration/samia-future/INSTALLATION.md).
 
 **Repository:** [https://github.com/Rise-admin1/MTCM-Foundation](https://github.com/Rise-admin1/MTCM-Foundation)
 
-Local setup is in [INSTALLATION.md](../migration/MTCM-Foundation/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/MTCM-Foundation/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ Local setup is in [INSTALLATION.md](../migration/MTCM-Foundation/INSTALLATION.md
 
 **Repository:** [https://github.com/Rise-admin1/corpink](https://github.com/Rise-admin1/corpink)
 
-Local setup is in [INSTALLATION.md](../migration/corpink/INSTALLATION.md).
+Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/corpink/blob/main/INSTALLATION.md).
 
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
