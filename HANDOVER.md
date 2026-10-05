@@ -2,12 +2,15 @@
 
 We host several apps, for both mobile and web.
 
+**Overall note:** All code other than WordPress exists on GitHub under the **rightintellectual** email, which is available in the **"Access Codes"** doc. All backend services exist on **Render**. All mobile apps are hosted on **Expo**. Frontend apps exist on **Render** and **Next.js**. Installation guides for local development for all assets are linked in the installation guide in every repo. You can access environment variables from **Render**, and mobile app frontend environment variables from **Expo**.
+
 ## Shared operations
 
 - **Emails:** Create and manage all project emails in the **Bluehost** email panels.
 - **Domains:** All domains are configured in **aeserver**.
 - **Payments:** All payments are connected to **Stripe**.
 - **Environment variables:** All env variables for hosted backends are kept on **Render**.
+- **Databases:** All databases exist on **Bluehost**.
 - **Passwords / access codes:** Available via the **rightintellectual** email account — open the Google Docs file named **"Access Codes"**.
 
 ## 1. PhD Success
