@@ -142,3 +142,15 @@ Local setup is in [INSTALLATION.md](https://github.com/Rise-admin1/corpink/blob/
 | Part | Where it lives | Hosted on |
 | --- | --- | --- |
 | Client | Next.js (repo root) | [corpink.ae](https://corpink.ae) ([Vercel](https://vercel.com)) |
+
+## 13. RISE Reports
+
+**Repository:** [https://github.com/Rise-admin1/rise-reports](https://github.com/Rise-admin1/rise-reports)
+
+Local setup and production release steps are in [INSTALLATION.md](https://github.com/Rise-admin1/rise-reports/blob/main/INSTALLATION.md).
+
+| Part | Where it lives | Hosted on |
+| --- | --- | --- |
+| Client | Expo (`fe-reports-expo/`) | [Expo](https://expo.dev) / App Store |
+| Backend | API (`rise-reports-api/`) | [Render](https://rise-reports.onrender.com) |
+| Vault | External (not in this repo; app calls Funyula directly, not proxied by the BFF) | [future.funyula.com](https://future.funyula.com) |
